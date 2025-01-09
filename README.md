@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full-stack-Development,C#,Express.js**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-site-2-0-nine.vercel.app](https://portfolio-site-2-0-nine.vercel.app)
+- 👨‍💻 All of my projects are available at [www.jawadshaikh.dev](https://portfolio-2025-henna.vercel.app/)
 
 - 💬 Ask me about **C, Python, Java , JavaScript, SQL**
 
